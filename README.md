@@ -21,3 +21,12 @@ This project aims to analyze a hospital dataset to identify patterns and predict
 The dataset includes information such as age range, time spent in hospital, number of lab procedures, medications administered, history of previous visits (inpatient, outpatient, emergency), provider's medical specialty, various diagnostic codes, glucose testing, changes in diabetes medication, and the readmission status. 
 
 This dataset is composed of 25000 rows and 17 columns.
+Link:
+https://www.kaggle.com/datasets/dubradave/hospital-readmissions
+
+### Executive Summary
+
+The largest contributing factor to a reduction in hospital readmissions is the number of healthcare visits a patient had before being admitted to the hospital.  There was no distinction between what type of healthcare visit the patient attended (Outpatient, Inpatient or Emergency), but once the patient, on average, had about two healthcare visits prior to being admitted to the hospital, their readmission rates dramatically decreased.
+
+<img width="2171" height="1150" alt="image" src="https://github.com/user-attachments/assets/4238031f-6547-4766-8a6a-59d3e1848af1" />
+
