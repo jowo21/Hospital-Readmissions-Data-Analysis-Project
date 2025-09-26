@@ -1,9 +1,4 @@
-USE hospital_readm
-;
 
-SELECT * 
-FROM hospital_readmissions
-;
 
 #Readmissions based on Age
 SELECT age_range, COUNT(age_range), SUM(CASE WHEN readmitted = "yes" THEN 1 ELSE 0 END) AS count_readmissions,  ROUND(SUM(CASE WHEN readmitted = "yes" THEN 1 ELSE 0 END) /  COUNT(readmitted) * 100, 2) AS percent_readmitted
