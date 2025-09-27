@@ -40,8 +40,8 @@ Key insights and recommendations are provided in the following areas:
 | readmitted | if the patient was readmitted at the hospital ('yes' or 'no') |	string |
 
 This dataset is composed of 25000 rows and 17 columns.
-Link:
-https://www.kaggle.com/datasets/dubradave/hospital-readmissions
+
+<a href = "https://www.kaggle.com/datasets/dubradave/hospital-readmissions">Original Dataset</a>
 
 The SQL queries to analyze this dataset can be found <a href="https://github.com/jowo21/Hospital-Readmissions-Data-Analysis-Project/blob/main/Hospital%20Readmissions%20Data%20Analysis%20Project/HOSPITAL%20READMISSIONS%20EXPLORATORY%20DATA%20MOST%20RECENT.sql">here</a>
 
