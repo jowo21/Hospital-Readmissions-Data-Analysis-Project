@@ -22,7 +22,6 @@ Key insights and recommendations are provided in the following areas:
 | Column | Definition | Data type |
 | :------- | :------: | -------: |
 | age | age range | string |
-| :------- | :------: | -------: |
 | time_in_hospital | time admitted in days | int |
 | n_procedures | number of procedures performed during the hospital stay | int |
 | n_lab_procedures |	number of laboratory procedures performed during the hospital stay | int |
