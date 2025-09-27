@@ -2,34 +2,56 @@
 
 Hospital readmissions, particularly unplanned ones, place a significant burden on healthcare systems, patients, and insurers. Frequent readmissions can be symptomatic of gaps in the quality of care, inadequate follow-up, or poor management of chronic conditions. Understanding the key drivers of readmission is essential for improving patient outcomes and reducing operational costs.
 
-This project aims to analyze a hospital dataset to identify patterns and predictors of patient readmissions.
+Key insights and recommendations are provided in the following areas:
+
+- Readmission rates based on various criteria such as:
+    - Age demographics
+    - Primary, Secondary, and Tertiary diagnoses
+    - Medical Specialty of the Provider
+    - Previous healthcare visits
+    - Results of glucose testing and status
+    
 
 ### **Project Objectives**
 
 - Provide actionable insights to healthcare stakeholders to improve care transitions and patient follow-up.
 - Identify opportunities for personalized care planning based on patient characteristics and medical history.
 
-### **Stakeholders**
+### Data Structure
 
-- **Hospital Administrators:** Interested in reducing readmission rates to avoid penalties and improve care efficiency.
-- **Healthcare Providers & Clinicians:** Seek to understand patient risk profiles and adapt treatment and discharge plans accordingly.
-- **Quality Improvement Teams:** Focused on identifying gaps in care that lead to avoidable readmissions.
-- **Patients and Advocacy Groups:** Want better continuity of care and health outcomes post-discharge.
-
-### About the Dataset
-
-The dataset includes information such as age range, time spent in hospital, number of lab procedures, medications administered, history of previous visits (inpatient, outpatient, emergency), provider's medical specialty, various diagnostic codes, glucose testing, changes in diabetes medication, and the readmission status. 
+Column	Definition	Data type
+age	age range	string
+time_in_hospital	time admitted in days	int
+n_procedures	number of procedures performed during the hospital stay	int
+n_lab_procedures	number of laboratory procedures performed during the hospital stay	int
+n_medications	number of medications administered during the hospital stay	int
+n_outpatient	number of outpatient visits in the year before a hospital stay	int
+n_inpatient	number of inpatient visits in the year before the hospital stay	int
+n_emergency	number of visits to the emergency room in the year before the hospital stay	int
+medical_specialty	the specialty of the admitting physician	string
+diag_1	primary diagnosis (Circulatory, Respiratory, Digestive, etc.	string
+diag_2	secondary diagnosis	string
+diag_3	additional secondary diagnosis	string
+glucose_test	whether the glucose serum came out as high (> 200), normal, or not performed	string
+A1Ctest	whether the A1C level of the patient came out as high (> 7%), normal, or not performed	string
+change	whether there was a change in the diabetes medication ('yes' or 'no')	string
+diabetes_med	whether a diabetes medication was prescribed ('yes' or 'no')	string
+readmitted	if the patient was readmitted at the hospital ('yes' or 'no')	string
 
 This dataset is composed of 25000 rows and 17 columns.
 Link:
 https://www.kaggle.com/datasets/dubradave/hospital-readmissions
 
+The SQL queries to analyze this dataset can be found <a href="https://github.com/jowo21/Hospital-Readmissions-Data-Analysis-Project/blob/main/Hospital%20Readmissions%20Data%20Analysis%20Project/HOSPITAL%20READMISSIONS%20EXPLORATORY%20DATA%20MOST%20RECENT.sql">here</a>
+
+
 ### Executive Summary
 
-The largest contributing factor to a reduction in hospital readmissions is the number of healthcare visits a patient had before being admitted to the hospital.  There was no distinction between what type of healthcare visit the patient attended (Outpatient, Inpatient or Emergency), but once the patient, on average, had about two healthcare visits prior to being admitted to the hospital, their readmission rates dramatically decreased.
+The largest contributing factor to a reduction in hospital readmissions is the number of healthcare visits a patient had before being admitted to the hospital. 
 
 <img width="2171" height="1150" alt="image" src="https://github.com/user-attachments/assets/4238031f-6547-4766-8a6a-59d3e1848af1" />
 
+Based on these findings, my recommendation is to increase the patient education and compliance by making their other appointments and seek out care from their primary providers on a regular basis.  There should also be an increase in communication between the hospital and the patient’s primary providers.
 
 ### **Other insights**
 
@@ -43,8 +65,6 @@ Finally, the patients who had a high A1C (>7%) were twice as likely to be readmi
 <img width="470" height="693" alt="image" src="https://github.com/user-attachments/assets/b695f65e-4e2a-4148-87f5-a551559de6de" />
 
 ### Insights and Recommendations:
-
-Based on the number and type of visits before patient’s first hospital visit, there is a higher number of readmission rates that contribute to a lower number of healthcare visits prior to admission.  My suggestion is that the hospital should focus on educating the patient on overall compliance by making their other appointments and seek out care from their primary providers on a regular basis.  There should also be an increase in communication between the hospital and the patient’s primary providers if possible to better discuss the patient’s needs and care.
 
 Patients who have circulatory, respiratory, and diabetes diagnoses are the most likely to be readmitted.  Suggestion is to increase the care of these patients.  Combined with the data that reflects the time that patients spend in the hospital, it is recommended to seek increased stays for patient’s with these diagnoses.
 
