@@ -1,7 +1,8 @@
 # Hospital Readmissions Data Analysis Project
 
 Hospital readmissions, particularly unplanned ones, place a significant burden on healthcare systems, patients, and insurers. Frequent readmissions can be symptomatic of gaps in the quality of care, inadequate follow-up, or poor management of chronic conditions. Understanding the key drivers of readmission is essential for improving patient outcomes and reducing operational costs.
-
+<br>
+<br>
 Key insights and recommendations are provided in the following areas:
 
 - Readmission rates based on various criteria such as:
@@ -10,13 +11,18 @@ Key insights and recommendations are provided in the following areas:
     - Medical Specialty of the Provider
     - Previous healthcare visits
     - Results of glucose testing and status
-    
-
+<br>
+<br>
+<br>
+<br>
 ### **Project Objectives**
 
 - Provide actionable insights to healthcare stakeholders to improve care transitions and patient follow-up.
 - Identify opportunities for personalized care planning based on patient characteristics and medical history.
-
+<br>
+<br>
+<br>
+<br>
 ### Data Structure
 
 | Column | Definition | Data type |
@@ -44,7 +50,10 @@ This dataset is composed of 25000 rows and 17 columns.
 <a href = "https://www.kaggle.com/datasets/dubradave/hospital-readmissions">Original Dataset</a>
 
 The SQL queries to analyze this dataset can be found <a href="https://github.com/jowo21/Hospital-Readmissions-Data-Analysis-Project/blob/main/Hospital%20Readmissions%20Data%20Analysis%20Project/HOSPITAL%20READMISSIONS%20EXPLORATORY%20DATA%20MOST%20RECENT.sql">here</a>
-
+<br>
+<br>
+<br>
+<br>
 
 ### Executive Summary
 
@@ -54,6 +63,17 @@ The largest contributing factor to a reduction in hospital readmissions is the n
 
 Based on these findings, my recommendation is to increase the patient education and compliance by making their other appointments and seek out care from their primary providers on a regular basis.  There should also be an increase in communication between the hospital and the patient’s primary providers.
 
+If patients would attend at least 3 appointments on average:
+
+Outpatient: Reduces readmissions by 97%
+
+Inpatient: Reduces readmissions by 92%
+
+Emergency: Reduces readmissions by 99%
+<br>
+<br>
+<br>
+<br>
 ### **Other insights**
 
 The next most impactful contributing factor is the type of diagnosis that the patient had.  The patient’s that suffered from Circulatory and Respiratory problems had the largest amount of readmissions This finding was also consistent by primary, secondary, and tertiary diagnoses:
@@ -64,8 +84,11 @@ Next, there was an almost linear correlation for the number of days that the pat
 
 Finally, the patients who had a high A1C (>7%) were twice as likely to be readmitted than those with normal A1Cs
 <img width="470" height="693" alt="image" src="https://github.com/user-attachments/assets/b695f65e-4e2a-4148-87f5-a551559de6de" />
-
-### Insights and Recommendations:
+<br>
+<br>
+<br>
+<br>
+### Recommendations:
 
 Patients who have circulatory, respiratory, and diabetes diagnoses are the most likely to be readmitted.  Suggestion is to increase the care of these patients.  Combined with the data that reflects the time that patients spend in the hospital, it is recommended to seek increased stays for patient’s with these diagnoses.
 
