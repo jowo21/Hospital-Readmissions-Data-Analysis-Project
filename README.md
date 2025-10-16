@@ -15,7 +15,7 @@ Key insights and recommendations are provided in the following areas:
 <br>
 <br>
 <br>
-### **Project Objectives**
+### Project Objectives
 
 - Provide actionable insights to healthcare stakeholders to improve care transitions and patient follow-up.
 - Identify opportunities for personalized care planning based on patient characteristics and medical history.
