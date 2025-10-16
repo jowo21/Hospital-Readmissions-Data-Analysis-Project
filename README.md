@@ -15,6 +15,7 @@ Key insights and recommendations are provided in the following areas:
 <br>
 <br>
 <br>
+
 ### Project Objectives
 
 - Provide actionable insights to healthcare stakeholders to improve care transitions and patient follow-up.
@@ -23,6 +24,7 @@ Key insights and recommendations are provided in the following areas:
 <br>
 <br>
 <br>
+
 ### Data Structure
 
 | Column | Definition | Data type |
