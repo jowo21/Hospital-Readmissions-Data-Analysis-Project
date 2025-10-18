@@ -15,9 +15,9 @@ Key insights and recommendations are provided in the following areas:
     - Results of glucose testing and status
 <br>
 <br>
-<br>
-<br>
+
 ---
+
 ### Project Objectives
 
 - Provide actionable insights to healthcare stakeholders to improve care transitions and patient follow-up.
