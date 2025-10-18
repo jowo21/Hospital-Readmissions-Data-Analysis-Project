@@ -7,7 +7,7 @@ Hospital readmissions, particularly unplanned ones, place a significant burden o
 
 ---
 
-Key insights and recommendations are provided in the following areas:
+### Key insights and recommendations are provided in the following areas:
 
 - Readmission rates based on various criteria such as:
     - Age demographics
