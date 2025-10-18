@@ -71,7 +71,7 @@ The largest contributing factor to a reduction in hospital readmissions is the n
 
 Based on these findings, my recommendation is to increase the patient education and compliance by making their other appointments and seek out care from their primary providers on a regular basis.  There should also be an increase in communication between the hospital and the patient’s primary providers.
 
-If patients would attend at least 3 appointments on average:
+If patients would attend at least 3 appointments on average in each type:
 
 Outpatient: Reduces readmissions by 97%
 
