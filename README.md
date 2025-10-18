@@ -57,6 +57,7 @@ This dataset is composed of 25000 rows and 17 columns.
 <a href = "https://www.kaggle.com/datasets/dubradave/hospital-readmissions">Original Dataset</a>
 
 The SQL queries to analyze this dataset can be found <a href="https://github.com/jowo21/Hospital-Readmissions-Data-Analysis-Project/blob/main/Hospital%20Readmissions%20Data%20Analysis%20Project/HOSPITAL%20READMISSIONS%20EXPLORATORY%20DATA%20MOST%20RECENT.sql">here</a>
+
 <br>
 <br>
 
@@ -77,8 +78,10 @@ Outpatient: Reduces readmissions by 97%
 Inpatient: Reduces readmissions by 92%
 
 Emergency: Reduces readmissions by 99%
+
 <br>
 <br>
+
 ---
 
 ### **Other insights**
@@ -91,8 +94,10 @@ Next, there was an almost linear correlation for the number of days that the pat
 
 Finally, the patients who had a high A1C (>7%) were twice as likely to be readmitted than those with normal A1Cs
 <img width="470" height="693" alt="image" src="https://github.com/user-attachments/assets/b695f65e-4e2a-4148-87f5-a551559de6de" />
+
 <br>
 <br>
+
 ---
 
 ### Recommendations:
