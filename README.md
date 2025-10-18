@@ -4,6 +4,7 @@ Hospital readmissions, particularly unplanned ones, place a significant burden o
 
 <br>
 <br>
+
 ---
 
 Key insights and recommendations are provided in the following areas:
@@ -14,6 +15,7 @@ Key insights and recommendations are provided in the following areas:
     - Medical Specialty of the Provider
     - Previous healthcare visits
     - Results of glucose testing and status
+
 <br>
 <br>
 
