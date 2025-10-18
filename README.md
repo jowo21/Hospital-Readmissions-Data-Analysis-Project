@@ -3,6 +3,8 @@
 Hospital readmissions, particularly unplanned ones, place a significant burden on healthcare systems, patients, and insurers. Frequent readmissions can be symptomatic of gaps in the quality of care, inadequate follow-up, or poor management of chronic conditions. Understanding the key drivers of readmission is essential for improving patient outcomes and reducing operational costs.
 <br>
 <br>
+---
+
 Key insights and recommendations are provided in the following areas:
 
 - Readmission rates based on various criteria such as:
@@ -15,7 +17,7 @@ Key insights and recommendations are provided in the following areas:
 <br>
 <br>
 <br>
-
+---
 ### Project Objectives
 
 - Provide actionable insights to healthcare stakeholders to improve care transitions and patient follow-up.
