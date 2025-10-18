@@ -24,8 +24,8 @@ Key insights and recommendations are provided in the following areas:
 - Identify opportunities for personalized care planning based on patient characteristics and medical history.
 <br>
 <br>
-<br>
-<br>
+
+---
 
 ### Data Structure
 
@@ -56,8 +56,8 @@ This dataset is composed of 25000 rows and 17 columns.
 The SQL queries to analyze this dataset can be found <a href="https://github.com/jowo21/Hospital-Readmissions-Data-Analysis-Project/blob/main/Hospital%20Readmissions%20Data%20Analysis%20Project/HOSPITAL%20READMISSIONS%20EXPLORATORY%20DATA%20MOST%20RECENT.sql">here</a>
 <br>
 <br>
-<br>
-<br>
+
+---
 
 ### Executive Summary
 
@@ -76,8 +76,8 @@ Inpatient: Reduces readmissions by 92%
 Emergency: Reduces readmissions by 99%
 <br>
 <br>
-<br>
-<br>
+---
+
 ### **Other insights**
 
 The next most impactful contributing factor is the type of diagnosis that the patient had.  The patient’s that suffered from Circulatory and Respiratory problems had the largest amount of readmissions This finding was also consistent by primary, secondary, and tertiary diagnoses:
@@ -90,8 +90,8 @@ Finally, the patients who had a high A1C (>7%) were twice as likely to be readmi
 <img width="470" height="693" alt="image" src="https://github.com/user-attachments/assets/b695f65e-4e2a-4148-87f5-a551559de6de" />
 <br>
 <br>
-<br>
-<br>
+---
+
 ### Recommendations:
 
 Patients who have circulatory, respiratory, and diabetes diagnoses are the most likely to be readmitted.  Suggestion is to increase the care of these patients.  Combined with the data that reflects the time that patients spend in the hospital, it is recommended to seek increased stays for patient’s with these diagnoses.
