@@ -65,7 +65,8 @@ Emergency: Reduces readmissions by 89%
 ### **Other insights**
 
 The next most impactful contributing factor to readmissions is the correlation of the type of diagnosis that the patient had.  The patient’s that suffered from Circulatory and Respiratory problems had the largest amount of readmissions This finding was also consistent by categorization of primary, secondary, and tertiary diagnoses: 
-<img width="3267" height="1250" alt="image" src="https://github.com/user-attachments/assets/49ab9348-7893-4335-8aaa-6024a9a8728d" />
+<img width="3260" height="1253" alt="image" src="https://github.com/user-attachments/assets/157c1106-93ec-4a68-add9-efc1bb921d31" />
+
 
 <br>
 <br>
