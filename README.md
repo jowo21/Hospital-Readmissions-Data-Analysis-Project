@@ -39,7 +39,8 @@ The SQL queries to analyze this dataset can be found <a href="https://github.com
 
 With an overall average readmission rate of 47%, the largest contributing factor that will lead to a reduction in hospital readmissions is increasing **the number of healthcare visits a patient had before being admitted to the hospital**.
 
-<img width="3040" height="1127" alt="image" src="https://github.com/user-attachments/assets/9e7f5f2b-b5f2-4b47-9e25-3b3a93603466" />
+<img width="3336" height="1164" alt="image" src="https://github.com/user-attachments/assets/9371e9be-c1f0-4431-8cee-b2d539e2f821" />
+
 
 
 Based on these findings, my recommendation is to increase patient education and compliance for making their other appointments and seek out care from their primary providers on a regular basis.  There should also be an increase in communication between the hospital and the patient’s primary providers to help facilitate this plan.
@@ -64,13 +65,21 @@ Emergency: Reduces readmissions by 89%
 The next most impactful contributing factor to readmissions is the correlation of the type of diagnosis that the patient had.  The patient’s that suffered from Circulatory and Respiratory problems had the largest amount of readmissions This finding was also consistent by categorization of primary, secondary, and tertiary diagnoses: 
 <img width="3267" height="1250" alt="image" src="https://github.com/user-attachments/assets/49ab9348-7893-4335-8aaa-6024a9a8728d" />
 
+<br>
+<br>
+
 
 Next, there was an almost linear correlation for the number of days that the patient spent in the hospital and a decrease in their readmissions.  This decrease starts after being admitted for 3 days:
-<img width="3385" height="1170" alt="image" src="https://github.com/user-attachments/assets/a51ecea1-d3fe-4b2f-9757-0a604e56ba2f" />
+<img width="3214" height="1164" alt="image" src="https://github.com/user-attachments/assets/55270d85-8a83-455d-a396-5b7d170ef771" />
+
+<br>
+<br>
+
 
 
 Finally, the patients who had a high A1C (>7%) were more than twice as likely to be readmitted than those with normal A1C readings.
-<img width="855" height="779" alt="image" src="https://github.com/user-attachments/assets/a09c6221-755d-4fba-8dd3-1e28e73a0ac3" />
+<img width="855" height="779" alt="image" src="https://github.com/user-attachments/assets/7c152414-a314-45d5-9220-d84143d796c1" />
+
 
 <br>
 <br>
