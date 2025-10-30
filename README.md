@@ -73,7 +73,8 @@ The next most impactful contributing factor to readmissions is the correlation o
 
 
 Next, there was an almost linear correlation for the number of days that the patient spent in the hospital and a decrease in their readmissions.  This decrease starts after being admitted for 3 days:
-<img width="3214" height="1164" alt="image" src="https://github.com/user-attachments/assets/55270d85-8a83-455d-a396-5b7d170ef771" />
+<img width="1719" height="1036" alt="image" src="https://github.com/user-attachments/assets/2fe0a8e4-9afb-4973-b56f-71716cb7c0f9" />
+
 
 <br>
 <br>
