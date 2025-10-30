@@ -37,7 +37,7 @@ The SQL queries to analyze this dataset can be found <a href="https://github.com
 
 ### Executive Summary
 
-With an overall average readmission rate of 47%, the largest contributing factor that will lead to a reduction in hospital readmissions is increasing **the number of healthcare visits a patient had before being admitted to the hospital**.
+With an overall average readmission rate of 47%, the largest contributing factor that will lead to a reduction in hospital readmissions is **increasing the number of healthcare visits a patient had before being admitted to the hospital**.
 
 <img width="3336" height="1164" alt="image" src="https://github.com/user-attachments/assets/9371e9be-c1f0-4431-8cee-b2d539e2f821" />
 
