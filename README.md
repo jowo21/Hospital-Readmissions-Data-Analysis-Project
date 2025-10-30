@@ -41,7 +41,8 @@ With an overall average readmission rate of 47%, the largest contributing factor
 
 
 
-<img width="5587" height="1944" alt="by type of visits" src="https://github.com/user-attachments/assets/96a08d88-74da-4717-a69d-12e1822611d2" />
+<img width="1750" height="1049" alt="image" src="https://github.com/user-attachments/assets/e2a285a5-05e6-4a15-bc16-7a4b40a7d101" />
+
 
 
 
