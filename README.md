@@ -43,7 +43,7 @@ The SQL queries to analyze this dataset can be found <a href="https://github.com
 
 ### Overview
 
-Unplanned hospital readmissions represent both a quality-of-care challenge and a significant financial risk for Urban General Hospital, particularly given Medicare readmission penalties and rising operational costs. This analysis examined 25,000 patient records to identify actionable, data-driven drivers of readmissions that can be addressed through care management interventions rather than purely clinical treatment changes.
+Unplanned hospital readmissions represent both a quality-of-care challenge and a significant financial risk for Urban General Hospital, particularly given Medicare readmission penalties and rising operational costs. This analysis examined 25,000 patient records to identify essential drivers of readmissions that can be addressed through care management interventions as opposed to purely clinical treatment changes.
 
 ### Prior Healthcare Visit Analysis
 
@@ -88,14 +88,14 @@ Emergency: Reduces readmissions by 89%
 <br>
 <br>
 
-The next most impactful contributing factor to readmissions is the correlation of the type of diagnosis that the patient had.  The patients that suffered from Circulatory and Respiratory problems had the largest amount of readmissions This finding was also consistent by categorization of primary, secondary, and tertiary diagnoses: 
+The next most impactful contributing factor to readmissions is the **identification of the type of diagnosis that the patient had.**  The patients that suffered from **Circulatory and Respiratory** problems had the **largest amount of readmissions** This finding was also consistent by categorization of primary, secondary, and tertiary diagnoses: 
 
 <img width="1989" height="1090" alt="image" src="https://github.com/user-attachments/assets/436e7a71-ba30-4f45-9ead-2801d2a90028" />
 
 <br>
 <br>
 
-Next, there was an almost linear correlation for the number of days that the patient spent in the hospital and a decrease in their readmissions.  This decrease starts after being admitted for 3 days:
+Next, there was a significant **linear decline** of readmisisons for patients that spent **3 days or more **in the hospital:
 
 <img width="1719" height="1036" alt="image" src="https://github.com/user-attachments/assets/858fb29c-ac57-4eca-842e-b5661b4020d4" />
 
