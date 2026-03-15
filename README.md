@@ -95,7 +95,7 @@ The next most impactful contributing factor to readmissions is the **identificat
 <br>
 <br>
 
-Next, there was a significant **linear decline** of readmisisons for patients that spent **3 days or more ** in the hospital:
+Next, there was a significant **linear decline** of readmisisons for patients that spent **3 days or more** in the hospital:
 
 <img width="1719" height="1036" alt="image" src="https://github.com/user-attachments/assets/858fb29c-ac57-4eca-842e-b5661b4020d4" />
 
